@@ -1,0 +1,18 @@
+Original File:
+
+************* Module rand
+rand.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+rand.py:4:0: C0116: Missing function or method docstring (missing-function-docstring)
+rand.py:6:4: C0200: Consider using enumerate instead of iterating with range and len (consider-using-enumerate)
+rand.py:7:23: W1510: 'subprocess.run' used without explicitly defining the value for 'check'. (subprocess-run-check)
+
+-----------------------------------
+Your code has been rated at 4.29/10
+
+
+
+
+After Changes:
+
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 5.71/10, +4.29)
